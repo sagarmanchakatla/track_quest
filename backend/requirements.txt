@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+postgrest
+requests
+geojson
+psycopg2-binary
